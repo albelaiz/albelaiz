@@ -15,12 +15,11 @@
 </div>
 
 ### 📊 GitHub Analytics
-
 <div align="center">
   
-| ![Alae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imad-touil&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00F72F&icon_color=00F72F&text_color=FFFFFF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&layout=compact&theme=github_dark&hide_border=true&title_color=00F72F&text_color=FFFFFF) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=imad-touil&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00F72F&ring=00F72F&fire=00F72F&currStreakLabel=00F72F) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=imad-touil&theme=github_dark&hide_border=true&title_color=00F72F&text_color=FFFFFF) |
+| ![Alae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albelaiz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00F72F&icon_color=00F72F&text_color=FFFFFF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albelaiz&layout=compact&theme=github_dark&hide_border=true&title_color=00F72F&text_color=FFFFFF) |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=albelaiz&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00F72F&ring=00F72F&fire=00F72F&currStreakLabel=00F72F) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=albelaiz&theme=github_dark&hide_border=true&title_color=00F72F&text_color=FFFFFF) |
 
 </div>
 
