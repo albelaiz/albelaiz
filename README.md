@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**albelaiz/albelaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Alae Belaizi
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
++ Software Engineer | 1337 (42 Network) Student | Morocco
++ Passionate about low-level programming, algorithms, and open-source
++ Currently learning OS development and performance optimization
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=500&lines=System+Programming+Enthusiast;C%2FC%2B%2B+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+
+</div>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  
+| ![Alae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imad-touil&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00F72F&icon_color=00F72F&text_color=FFFFFF) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&layout=compact&theme=github_dark&hide_border=true&title_color=00F72F&text_color=FFFFFF) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=imad-touil&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00F72F&ring=00F72F&fire=00F72F&currStreakLabel=00F72F) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=imad-touil&theme=github_dark&hide_border=true&title_color=00F72F&text_color=FFFFFF) |
+
+</div>
+
+
+### 🌟 Featured Projects
+| Project | Description | Technologies | Key Concepts |
+|---------|-------------|--------------|--------------|
+| [**libft**](https://github.com/your-username/libft) | Custom C library replicating standard functions | **C**, **Makefile** | `memcpy`, `atoi`, `linked lists`, `memory management` |
+| [**get_next_line**](https://github.com/your-username/get_next_line) | Reads a line from a file descriptor (FD) dynamically | **C**, **File I/O** | `static variables`, `buffered reading`, `memory allocation` |
+| [**ft_printf**](https://github.com/your-username/ft_printf) | Custom `printf` implementation with format specifiers | **C**, `va_arg` | `variadic functions`, `string formatting`, `%d/%s/%p/%x` |
+| [**push_swap**](https://github.com/your-username/push_swap) | Sorts integers using two stacks with minimal operations | **C**, **Algorithms** | `rang sort `, `O(n log n)`, `stack operations` |
+| [**so_long**](https://github.com/your-username/so_long) | 2D game with sprite rendering and pathfinding | **C**, **MiniLibX** | `graphics`, `event hooks`, `flood-fill algorithm` |
+| [**minitalk**](https://github.com/your-username/minitalk) | Client-server communication via UNIX signals | **C**, **Signals** | `SIGUSR1/SIGUSR2`, `bitwise ops`, `process sync` |
+
+### 📈 Coding Activity
+[![Alae's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=albelaiz&theme=github-dark&hide_border=true&area=true&area_color=00F72F&line=00F72F&point=FFFFFF&custom_title=Alae's+Consistency+Heatmap)](https://github.com/albelaiz)
+### 👀 Visitors
+
+LinkedIn : [https://www.linkedin.com/in/alae-belaizi/]
+
+Twitter : [https://x.com/albelaizi]
+
+instagram : [https://www.instagram.com/alaebilaizi/?hl=fr]
+
