@@ -43,7 +43,7 @@
 
 ![](https://komarev.com/ghpvc/?username=albelaiz)
 
-###### Connect with me:
+### Connect with me:
 
 LinkedIn : [https://www.linkedin.com/in/alae-belaizi/]
 
