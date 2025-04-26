@@ -41,6 +41,8 @@
 ### 📈 Coding Activity
 [![Alae's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=albelaiz&theme=github-dark&hide_border=true&area=true&area_color=00F72F&line=00F72F&point=FFFFFF&custom_title=Alae's+Consistency+Heatmap)](https://github.com/albelaiz)
 
+![](https://komarev.com/ghpvc/?username=albelaiz)
+
 LinkedIn : [https://www.linkedin.com/in/alae-belaizi/]
 
 Twitter : [https://x.com/albelaizi]
