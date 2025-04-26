@@ -14,6 +14,10 @@
 
 </div>
 
+ <a href="https://profile.intra.42.fr/users/ albelaiz">
+    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 3.43-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
+ </a>
+
 ### 📊 GitHub Analytics
 <div align="center">
   
