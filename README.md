@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 + Software Engineer | 1337 (42 Network) Student | Morocco
-+ Passionate about low-level programming, algorithms, and open-source
++ Passionate about low-level programming, algorithms,cyber_sec, and open-source
 + Currently learning OS development and performance optimization
 
 <div align="center">
