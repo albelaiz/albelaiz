@@ -13,11 +13,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=500&lines=System+Programming+Enthusiast;C%2FC%2B%2B+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
-
- <a href="https://profile.intra.42.fr/users/ albelaiz">
-    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 3.26-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
- </a>
- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/albelaiz" alt="albelaiz's 42 stats" /></a>
+<div>
+   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/albelaiz" alt="albelaiz's 42 stats" /></a>
+</div>
 
 ### 📊 GitHub Analytics
 <div align="center">
