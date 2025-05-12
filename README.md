@@ -13,8 +13,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=500&lines=System+Programming+Enthusiast;C%2FC%2B%2B+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
-<div>
-   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/albelaiz" alt="albelaiz's 42 stats" /></a>
+
+## 42 Common Core Projects
+
+<div align="center">
+
+[![nbenyahy's 42 stats](https://badge.mediaplus.ma/darkblue/nbenyahy)](https://github.com/oakoudad/badge42)
+  <br><br>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/albelaiz" alt="albelaiz's 42 stats" />
+  	  42 project
+   </a> 
 </div>
 
 ### 📊 GitHub Analytics
