@@ -17,7 +17,7 @@
  <a href="https://profile.intra.42.fr/users/ albelaiz">
     <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 3.26-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
- [![<albelaiz>'s 42 stats](https://badge.mediaplus.ma/darkblue/albelaiz)](https://github.com/albelaiz/badge42)
+ https://badge.mediaplus.ma/darkblue/albelaiz)](https://github.com/albelaiz/badge42
 
 ### 📊 GitHub Analytics
 <div align="center">
