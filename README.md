@@ -37,9 +37,12 @@
 | [**libft**](https://github.com/albelaiz/42_libft) | Custom C library replicating standard functions | **C**, **Makefile** | `memcpy`, `atoi`, `linked lists`, `memory management` |
 | [**get_next_line**](https://github.com/albelaiz/get_next_line-42) | Reads a line from a file descriptor (FD) dynamically | **C**, **File I/O** | `static variables`, `buffered reading`, `memory allocation` |
 | [**ft_printf**](https://github.com/albelaiz/ft_printf_42) | Custom `printf` implementation with format specifiers | **C**, `va_arg` | `variadic functions`, `string formatting`, `%d/%s/%p/%x` |
-| [**push_swap**](https://github.com/albelaiz/push_swap_42) | Sorts integers using two stacks with minimal operations | **C**, **Algorithms** | `rang sort `, `O(n log n)`, `stack operations` |
+| [**push_swap**](https://github.com/albelaiz/push_swap_42) | Sorts integers using two stacks with minimal operations | **C**, **Algorithms** | `range sort`, `O(n log n)`, `stack operations` |
 | [**so_long**](https://github.com/albelaiz/so_long_42) | 2D game with sprite rendering and pathfinding | **C**, **MiniLibX** | `graphics`, `event hooks`, `flood-fill algorithm` |
 | [**minitalk**](https://github.com/albelaiz/minitalk_42) | Client-server communication via UNIX signals | **C**, **Signals** | `SIGUSR1/SIGUSR2`, `bitwise ops`, `process sync` |
+| [**minishell**](https://github.com/albelaiz/minishell-42) | A simple UNIX shell implementing command parsing and execution | **C**, **System Calls**, **Processes** | `fork`, `execve`, `pipes`, `redirections`, `signal handling` |
+| [**philosophers**](https://github.com/albelaiz/Philosophers_42) | Simulation of the dining philosophers problem with threads | **C**, **Pthreads** | `mutex`, `thread synchronization`, `deadlock prevention` |
+
 
 ### 📈 Coding Activity
 [![Alae's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=albelaiz&theme=github-dark&hide_border=true&area=true&area_color=00F72F&line=00F72F&point=FFFFFF&custom_title=Alae's+Consistency+Heatmap)](https://github.com/albelaiz)
