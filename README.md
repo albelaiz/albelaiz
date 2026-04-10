@@ -30,7 +30,6 @@
 
 </div>
 
-
 ### 🌟 Featured Projects
 | Project | Description | Technologies | Key Concepts |
 |---------|-------------|--------------|--------------|
@@ -42,6 +41,8 @@
 | [**minitalk**](https://github.com/albelaiz/minitalk_42) | Client-server communication via UNIX signals | **C**, **Signals** | `SIGUSR1/SIGUSR2`, `bitwise ops`, `process sync` |
 | [**minishell**](https://github.com/albelaiz/minishell-42) | A simple UNIX shell implementing command parsing and execution | **C**, **System Calls**, **Processes** | `fork`, `execve`, `pipes`, `redirections`, `signal handling` |
 | [**philosophers**](https://github.com/albelaiz/Philosophers_42) | Simulation of the dining philosophers problem with threads | **C**, **Pthreads** | `mutex`, `thread synchronization`, `deadlock prevention` |
+| [**cub3d**](https://github.com/albelaiz/cub3d_42) | Ray-casting engine to create a 3D perspective from a 2D map | **C**, **MiniLibX** | `ray-casting`, `DDA algorithm`, `trigonometry`, `texture mapping` |
+| [**cpp00**](https://github.com/albelaiz/cpp00_42) | Introduction to Object-Oriented Programming and C++ syntax | **C++** | `classes`, `encapsulation`, `I/O streams`, `namespacing` |
 
 
 ### 📈 Coding Activity
