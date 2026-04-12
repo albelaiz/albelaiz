@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=500&lines=System+Programming+Enthusiast;C%2FC%2B%2B+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%2FC%2B%2B+developer;problem+solver)](https://git.io/typing-svg)
 
 </div>
 
